@@ -1,0 +1,19 @@
+{
+  "name": "lists",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-arrays": "~0.4.2",
+    "purescript-console": "^0.1.0",
+    "purescript-generics": "~0.6.1",
+    "purescript-halogen": "09573a9a38018a5524b72f03e10dcd6e32c60ba0"
+  }
+}
